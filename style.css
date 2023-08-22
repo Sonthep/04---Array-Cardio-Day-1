@@ -1,0 +1,56 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styles */
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Table Styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+/* List Styles */
+ol {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+/* Section Styles */
+.divider {
+  border-top: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+/* Classes for Specific Sections */
+.table2 {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.Born, .InventorName, .BirthDay, .TotalYears, .YearLived, .InstancesCount, .peopleSort {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+
